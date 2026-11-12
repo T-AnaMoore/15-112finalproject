@@ -31,7 +31,7 @@ To check something off, change `- [ ]` to `- [x]`, then commit and push.
 - [x] Mentor Sign-Up Form
 - [x] GitHub Username Form
 - [x] Set up git, clone repo, add `.gitignore`
-- [ ] Start `time_log`, `ai_prompts/`, `citations`
+- [x] Start `time_log`, `ai_prompts/`, `citations`
 - [ ] Download my Canvas calendar feed into `data/private/`
 - [ ] Build a fake sample calendar feed and ~30 fake emails in `data/`
 - [ ] `models.py`: `Item`, `Email`, `Store`
